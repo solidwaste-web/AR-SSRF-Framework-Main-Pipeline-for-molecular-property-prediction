@@ -1,5 +1,5 @@
 # AR-SSRF Framework
-
+[![DOI](https://zenodo.org/badge/1177781749.svg)](https://doi.org/10.5281/zenodo.18950483)
 **Autoregressive Semi-Supervised Random Forest for Molecular Property Prediction**
 
 ---
@@ -466,5 +466,6 @@ If you use this framework in your research, please cite the associated manuscrip
 ---
 
 # Contact
+
 
 For questions or collaboration requests, please contact the corresponding author.
